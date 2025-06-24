@@ -6,7 +6,7 @@ adding my code
 
 ## Authors
 
-- [Abdullah Moiz](https://www.github.com/Abdullah-moiz)
+- [Jitendra Kumar](https://github.com/JitendraKumar63/job-portal)
 
 ## Features
 
